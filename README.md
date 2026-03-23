@@ -16,6 +16,7 @@
 ### 📌 Practice (실습 자료)
 - `Python_1.pdf` : 파이썬 인트로 및 기초 실습 1
 - `Python_2.pdf` : 파이썬 기초 실습 2
+- `Python_3.pdf` : 파이썬 기초 실습 3
 
 ### 📌 Solution (솔루션)
 - `Python_1_Solution.pdf` : Python 기초 실습 1 과제 정답 및 풀이
