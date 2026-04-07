@@ -18,11 +18,13 @@
 - `Python_2.pdf` : 파이썬 기초 실습 2
 - `Python_3.pdf` : 파이썬 기초 실습 3
 - `Python_4.pdf` : 파이썬 기초 실습 4
+- `Python_5.pdf` : 파이썬 기초 실습 5
 
 ### 📌 Solution (솔루션)
 - `Python_1_Solution.pdf` : Python 기초 실습 1 과제 정답 및 풀이
 - `Python_2_Solution.pdf` : Python 기초 실습 2 과제 정답 및 풀이
 - `Python_3_Solution.pdf` : Python 기초 실습 3 과제 정답 및 풀이
+- `Python_4_Solution.pdf` : Python 기초 실습 4 과제 정답 및 풀이
 
 ---
 *본 자료는 김광욱 교수님의 '공학도를 위한 창의적 컴퓨팅' 수업을 기반으로 합니다.*
