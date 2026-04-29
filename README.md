@@ -14,19 +14,23 @@
 ## 📄 포함된 파일 목록
 
 ### 📌 Practice (실습 자료)
-- `Python_1.pdf` : 파이썬 인트로 및 기초 실습 1
-- `Python_2.pdf` : 파이썬 기초 실습 2
-- `Python_3.pdf` : 파이썬 기초 실습 3
-- `Python_4.pdf` : 파이썬 기초 실습 4
-- `Python_5.pdf` : 파이썬 기초 실습 5
-- `Python_6.pdf` : 파이썬 기초 실습 6
+- `Python_1.pdf` : 파이썬 인트로 및 기초 실습 1 (2026년 03월 11일, 2주차)
+- `Python_2.pdf` : 파이썬 기초 실습 2 (2026년 03월 18일, 3주차)
+- `Python_3.pdf` : 파이썬 기초 실습 3 (2026년 03월 25일, 4주차)
+- `Python_4.pdf` : 파이썬 기초 실습 4 (2026년 04월 01일, 5주차)
+- `Python_5.pdf` : 파이썬 기초 실습 5 (2026년 04월 08일, 6주차)
+- `Python_6.pdf` : 파이썬 기초 실습 6 (2026년 04월 15일, 7주차)
+- `Python_7.pdf` : 파이썬 기초 실습 7 (2026년 04월 29일, 9주차)
 
 ### 📌 Solution (솔루션)
+> **안내:** 첨부된 솔루션 파일들은 완벽한 정답이 아닌, 풀이의 핵심만을 담아 요약한 자료입니다.
+
 - `Python_1_Solution.pdf` : Python 기초 실습 1 과제 정답 및 풀이
 - `Python_2_Solution.pdf` : Python 기초 실습 2 과제 정답 및 풀이
 - `Python_3_Solution.pdf` : Python 기초 실습 3 과제 정답 및 풀이
 - `Python_4_Solution.pdf` : Python 기초 실습 4 과제 정답 및 풀이
 - `Python_5_Solution.pdf` : Python 기초 실습 5 과제 정답 및 풀이
+- `Python_6_Solution.pdf` : Python 기초 실습 6 과제 정답 및 풀이
 
 ---
 *본 자료는 김광욱 교수님의 '공학도를 위한 창의적 컴퓨팅' 수업을 기반으로 합니다.*
